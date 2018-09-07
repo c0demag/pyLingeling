@@ -4,9 +4,7 @@ Lingeling SAT Solver Python Wrapper.
 
 Based on the pyPicoSAT wrapper  written by Andrea Micheli and Marco Gario.
 
-Two wrappers are available in this repository:
-
-* A SWIG wrapper (picosat_python.i)
+The SWIG wrapper is in lingeling_python.i.
 
 # pyLingeling LICENSE
 
