@@ -45,7 +45,7 @@ setup(name='pyLingeling',
       description=short_description,
       long_description=long_description,
       ext_modules=[lingeling_ext],
-      py_modules=['lingeling'],
+      py_modules=['lingeling', 'solver'],
       classifiers = [
         "Programming Language :: Python",
         "Programming Language :: Python :: 3",

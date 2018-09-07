@@ -1,0 +1,7 @@
+*.swp
+build/*
+dist/*
+*.pyc
+pyLingeling.egg-info/*
+lingeling.py
+lingeling_python_wrap.c
